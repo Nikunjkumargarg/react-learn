@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 5px solid black;
+  height: 400px;
+  width: 350px;
+}
+p {
+  display: inline;
+  margin-right: 4px;
+  border-radius: 5px 5px 5px 5px;
+  padding: 3px 3px;
+}
